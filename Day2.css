@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(9, 9, 71);
+}
+h1 {
+  color: yellowgreen;
+  text-align: center;
+  background: linear-gradient(to right, blue, green);
+  border-radius: 10px;
+}
+h2 {
+  color: orange;
+}
+p {
+  color: white;
+}
+
+audio {
+  width: 100%;
+  color-scheme: dark;
+  border-radius: 27px;
+  box-shadow: 5px -5px 15px rgb(22, 196, 80);
+}
+
+.movie {
+  color: rgb(148, 235, 198);
+  font-size: 20px;
+}
+
+img {
+  border-radius: 15px;
+  box-shadow: 5px 5px 15px rgb(22, 196, 80);
+  border: 2px solid rgb(27, 226, 183);
+  margin-right: 10px;
+}
+video {
+  border-radius: 27px;
+  box-shadow: 5px 5px 15px rgb(22, 196, 80);
+  border: 2px solid rgb(27, 226, 183);
+}
+
+.para {
+  font-size: 18px;
+  color: rgb(230, 211, 211);
+}
+strong {
+  color: rgb(255, 153, 0);
+}
+
+em {
+  color: rgb(0, 255, 170);
+}
+
+u {
+  color: rgb(181, 162, 231);
+}
